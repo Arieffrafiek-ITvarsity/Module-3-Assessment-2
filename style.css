@@ -78,26 +78,3 @@ background-color: #2196f3;
   background: #ffe0cc;
 }
 
-.meals img {
-  width: 100%;
-  border-radius: 10px;
-}
-
-button {
-  background: #ff6347;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-button:hover {
-  background: #e5533d;
-}
-
-textarea {
-  width: 80%;
-  height: 80px;
-  margin: 10px 0;
-}
