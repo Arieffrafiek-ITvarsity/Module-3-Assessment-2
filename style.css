@@ -43,13 +43,13 @@ background-color: #2196f3;
 /*============= HOME PAGE ===============*/
 
 #home-logo-img{
-  width: 50px;
+  width: 100px;
   display: block;
   margin: auto;
   padding: 25px 10px 10px 10px;
 }
 #home-logo-text{
-  width: auto;
+  width: 50px;
   display: block;
   margin: auto;
   padding: 25px;
