@@ -83,7 +83,7 @@ body {
              }
 
 .home :hover, .meals :hover {
-  background: rgba(0,0,0,.12);
+  background: rgba(0,0,0,.20);
   color: #ffffff;
 }
 
