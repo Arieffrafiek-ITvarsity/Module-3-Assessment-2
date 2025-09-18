@@ -22,7 +22,7 @@ body {
 
 /*============= HEADER ===============*/
 .header {
-background-color: #FFEE00;
+background-color: #FF3700;
   width: 100%;
   height: 50px;
   top: 0;
@@ -117,13 +117,13 @@ background-color: #FFEE00;
 .meals-list-item h1 {
   font-size: 20px;
   font-weight: bold;
-  color: #1a1a1a;
+  color: #000000;
   padding-left: 20px;
 }
 .meals-list-item p {
   font-size: 15px;
   font-style: italic;
-  color: #4d4d4d;
+  color: #000000;
   padding-left: 20px;
   margin-top: -7px;
 }
