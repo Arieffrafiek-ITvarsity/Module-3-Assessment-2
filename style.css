@@ -74,7 +74,10 @@ background-color: #FF0026;
   border-radius: 5px;
  background: rgba(255,255,255,.12);
 }
-.site-footer { padding: 2rem 1rem; text-align: center; color: #000000; }
+.site-footer { padding: 2rem 1rem;
+              text-align: center;
+              color: #000000;
+              text-decoration: none; }
 
 .categories li:hover, .meals li:hover {
   background: #ffe0cc;
