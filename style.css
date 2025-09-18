@@ -11,10 +11,10 @@ body {
 
 .body-home {
   background-image: url("images/background.png");
-  background-position: center;
+  background-position: center
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: fit;
+  background-size: cover;
 }
 
 
