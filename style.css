@@ -84,7 +84,7 @@ body {
 
 .home-list :hover, .meals-list :hover {
   background: rgba(0,0,0,.20);
-  color: #ffffff;
+
 }
 
 /*============= MEALS PAGE ===============*/
