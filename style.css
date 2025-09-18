@@ -22,7 +22,7 @@ body {
 
 /*============= HEADER ===============*/
 .header {
-background-color: #FF0026;
+background-color: #FFEE00;
   width: 100%;
   height: 50px;
   top: 0;
@@ -37,7 +37,7 @@ background-color: #FF0026;
   color: #ffffff;
 }
 .header img {
-  width: 150px;
+  width: 200px;
   padding-top: 14px;
   padding-right: 25px;
 }
