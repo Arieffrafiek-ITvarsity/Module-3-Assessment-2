@@ -10,6 +10,7 @@ body {
 }
 
 .body-home {
+  background-image: url("images/background.png");
   background-color: #FF0026;
   background-position: center;
   background-attachment: fixed;
