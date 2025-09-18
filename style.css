@@ -82,9 +82,9 @@ body {
               font-size: 10px;
              }
 
-.home-menu display :hover, .meals-list display :hover {
+.home :hover, .meals  :hover {
   background: rgba(0,0,0,.20);
-  hover-text: none;
+  text: none;
 }
 
 /*============= MEALS PAGE ===============*/
