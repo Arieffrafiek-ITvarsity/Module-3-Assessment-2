@@ -82,7 +82,7 @@ body {
               font-size: 10px;
              }
 
-.home-menu-item :hover, .meals-list-item :hover {
+.home-menu :hover, .meals-list :hover {
   background: rgba(255,255,255,.12);
   color: #ffffff;
 }
