@@ -13,16 +13,16 @@ body {
   background-image: url("images/background.png");
   background-color: #FF0026
   background-position: center;
-  background-attachment: fixed;;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background-width: auto
+
 }
 
 
 /*============= HEADER ===============*/
 .header {
-background-color: #2196f3;
+background-color: #FF0026;
   width: 100%;
   height: 50px;
   top: 0;
@@ -80,3 +80,47 @@ background-color: #2196f3;
   background: #ffe0cc;
 }
 
+/*============= MEALS PAGE ===============*/
+#meals {
+  padding-top: 50px;
+}
+
+.body-meals {
+  background-image: url("images/background.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*============= MEALS PAGE MENU ===============*/
+
+.meals-list a {
+  text-decoration: none;
+              }
+
+.meals-list-item {
+  border: 5px solid #1a1a1a;
+  margin: 10px;
+  border-radius: 100px;
+}
+
+.meals-list-item i {
+  float: right;
+  color: #1a1a1a;
+  padding-right: 20px;
+}
+
+.meals-list-item h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1a1a1a;
+  padding-left: 20px;
+}
+.meals-list-item p {
+  font-size: 15px;
+  font-style: italic;
+  color: #4d4d4d;
+  padding-left: 20px;
+  margin-top: -7px;
+}
