@@ -11,7 +11,6 @@ body {
 
 .body-home {
   background-image: url("images/background.png");
-  background-color: #FF0026
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -83,8 +82,8 @@ body {
              }
 
 .home-menu :hover, .meals-list :hover {
-  background: rgba(0,0,0,.20);
-  color: rgba(255,255,255,.20);
+  background: #FF0026;
+  color: #FFEE00;
 }
 
 /*============= MEALS PAGE ===============*/
@@ -98,7 +97,7 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background-width: 100%;
+
 }
 
 /*============= MEALS PAGE MENU ===============*/
