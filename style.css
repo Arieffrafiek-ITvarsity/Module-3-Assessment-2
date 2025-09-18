@@ -95,7 +95,7 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #FF0026
+  background-width: auto;
 }
 
 /*============= MEALS PAGE MENU ===============*/
@@ -114,7 +114,7 @@ body {
 .meals-list-item i {
   float: right;
   color: #000000;
-  padding-right: 12px;
+  padding-right: 11px;
 }
 
 .meals-list-item h1 {
