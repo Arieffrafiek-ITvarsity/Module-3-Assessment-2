@@ -103,14 +103,14 @@ background-color: #FFEE00;
               }
 
 .meals-list-item {
-  border: 5px solid #1a1a1a;
+  border: 2px solid #000000;
   margin: 10px;
-  border-radius: 100px;
+  border-radius: 5px;
 }
 
 .meals-list-item i {
   float: right;
-  color: #1a1a1a;
+  color: #000000;
   padding-right: 20px;
 }
 
