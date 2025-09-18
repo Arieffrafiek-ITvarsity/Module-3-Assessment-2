@@ -78,7 +78,9 @@ body {
 .site-footer { padding: 2rem 1rem;
               text-align: center;
               color: #000000;
-              text-decoration: none; }
+              text-decoration: none;
+              font-size: 10px;
+             }
 
 .categories li:hover, .meals li:hover {
   background: #ffe0cc;
