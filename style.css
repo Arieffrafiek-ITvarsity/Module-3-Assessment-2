@@ -135,7 +135,7 @@ body {
 /*============= item PAGE ===============*/
 
 #item{
-  padding-top: 90px;
+  padding-top: 50px;
 }
 
 .body-meals {
@@ -148,10 +148,9 @@ body {
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
    width: 80%;
-   img-align: center;
+   align: center;
   border: 2px solid #000000;
    margin: 10px;
-  padding: 5px;
   border-radius: 5px;
 }
 .item-details h1{
