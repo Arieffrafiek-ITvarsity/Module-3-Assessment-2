@@ -145,10 +145,10 @@ body {
 .item-details h1{
   font-size: 25px; 
   text-align: center; 
-  border: 5px solid #1a1a1a;
+  border: 2px solid #000000;
   margin: 10px;
   padding: 5px;
-  border-radius: 100px;
+  border-radius: 5px;
 }
 
 .item-details h2 {
@@ -176,9 +176,7 @@ body {
   padding-top: 20px;
 }
 
-.item-details-steps ol{
-  padding-left: 30px;
-}
+
 
 /*============= CUSTOM CHECKBOX ===============*/
 
