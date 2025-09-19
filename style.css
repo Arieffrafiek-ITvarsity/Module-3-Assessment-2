@@ -106,9 +106,16 @@ body {
 
 .meals-list-item {
   border: 2px solid #000000;
-  margin: 11px;
+  margin: 10px;
   border-radius: 5px;
   background: rgba(255,255,255,.12);
+}
+
+.meals-list-item img{
+  border: 2px solid #000000;
+  margin: 10px;
+  border-radius: 5px;
+  
 }
 
 .meals-list-item i {
