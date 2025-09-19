@@ -307,9 +307,4 @@ input [type=checkbox]:ckecked + label:before {
   margin-right: 0.5rem;
 }
 
-.btn-home:hover {
-  background: #e65c00;     /* darker orange on hover */
-  color: #fff;             /* stays white */
-  text-decoration: none;   /* make sure underline doesn’t come back */
-}
 
