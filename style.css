@@ -148,8 +148,8 @@ body {
   
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 80%;
-   align: center;
+   width: 100%;
+   position: center;
   border: 2px solid #000000;
    margin: 10px;
   border-radius: 5px;
