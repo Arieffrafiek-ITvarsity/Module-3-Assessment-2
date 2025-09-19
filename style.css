@@ -111,13 +111,6 @@ body {
   background: rgba(255,255,255,.12);
 }
 
-.meals-list-item img{
-  border: 2px solid #000000;
-  margin: 10px;
-  border-radius: 5px;
-  
-}
-
 .meals-list-item i {
   float: right;
   color: #000000;
@@ -152,14 +145,12 @@ body {
   
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 98%;
-   position: center;
    border: 2px solid #000000;
    margin: 0 10px 1rem 10px;
   border-radius: 5px;
-  display: block;
 }
-.item-details h1{
+  
+ item-details h1{
   font-size: 25px; 
   text-align: center; 
   border: 2px solid #000000;
