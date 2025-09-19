@@ -239,6 +239,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   transition: background 0.25s;
+  border: 2px solid #000000;
 }
 
 .item-details-text button:hover {
