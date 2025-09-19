@@ -145,7 +145,7 @@ body {
   
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 100%;
+   width: 98%;
    position: center;
    border: 2px solid #000000;
    margin: 0 10px 1rem 10px;
@@ -199,9 +199,10 @@ body {
 }
 
 .item-details-ingredients input[type="checkbox"] {
-  accent-color: #ff6600; /* modern browsers: orange highlight */
+  accent-color: #fc0808; /* modern browsers: orange highlight */
   transform: scale(1.2);
   cursor: pointer;
+  border: 2px solid #000000;
 }
 
 .item-details-steps {
@@ -219,7 +220,7 @@ body {
 }
 
 .item-details-steps textarea {
-  width: 95%;
+  width: 96%;
   min-height: 80px;
   padding: 0.8rem;
   font-size: 1rem;
