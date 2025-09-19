@@ -181,14 +181,17 @@ body {
 .item-details-ingredients label {
   line-height: 25px;
   margin-left: 10px;
+  font-size: 15px;
 }
 
 .item-details-steps {
   padding-top: 20px;
 }
 
-
-
+.textarea {
+  width: 30px;
+  margin: 10px;
+}
 /*============= CUSTOM CHECKBOX ===============*/
 
 input [type=checkbox] {
