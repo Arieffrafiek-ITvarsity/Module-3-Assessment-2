@@ -246,6 +246,21 @@ body {
   background: #FF0026;
 }
 
+.item-details-text h1 {
+  font-size: 1.8rem;
+  color: #222;
+  margin-bottom: 1rem;
+  padding: 100px;
+}
+
+.item-details-text p {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+  padding: 100px;
+}
+
+  
 /*============= CUSTOM CHECKBOX ===============*/
 
 input [type=checkbox] {
