@@ -135,12 +135,24 @@ body {
 /*============= item PAGE ===============*/
 
 #item{
-  padding-top: 50px;
+  padding-top: 90px;
 }
 
+.body-meals {
+  background-image: url("images/background.png");
+  background-position: center
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 100%; 
+   width: 80%;
+   img-align: center;
+  border: 2px solid #000000;
+   margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
 }
 .item-details h1{
   font-size: 25px; 
