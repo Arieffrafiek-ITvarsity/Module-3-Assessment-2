@@ -248,16 +248,16 @@ body {
 
 .item-details-text h1 {
   font-size: 1.8rem;
-  color: #222;
-  margin-bottom: 1rem;
-  padding: 100px;
+  color: #000;
+  margin: 10px;
+  padding-left: 100px;
 }
 
 .item-details-text p {
   font-size: 1.1rem;
-  color: #333;
-  margin-bottom: 1.5rem;
-  padding: 100px;
+  color: #000;
+  margin: 10px;
+  padding-left: 100px;
 }
 
   
