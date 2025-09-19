@@ -91,8 +91,7 @@ body {
 }
 
 .body-meals {
-  background-image: url("images/background.png");
-  background-position: center 
+  background-image: url("images/background.png"); 
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -140,7 +139,6 @@ body {
 
 .body-meals {
   background-image: url("images/background.png");
-  background-position: center
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
