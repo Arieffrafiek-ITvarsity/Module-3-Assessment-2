@@ -145,11 +145,11 @@ body {
   
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 90%;
+   width: 100%;
    position: center;
   border: 2px solid #000000;
-  padding-right: 10px;
-  padding-left: 10px;
+   margin: 10px
+  
   border-radius: 5px;
   display: block;
 }
