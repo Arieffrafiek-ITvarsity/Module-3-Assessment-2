@@ -150,7 +150,8 @@ body {
    width: 100%;
    position: center;
   border: 2px solid #000000;
-   margin: 10px;
+   margin-right: 10px;
+  margin-left: 10px;
   border-radius: 5px;
 }
 .item-details h1{
