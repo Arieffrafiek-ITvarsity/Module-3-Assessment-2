@@ -287,12 +287,14 @@ input [type=checkbox]:ckecked + label:before {
   font-size: 1.8rem;
   color: #222;
   margin-bottom: 1rem;
+  padding: 100px;
 }
 
 .thank-you p {
   font-size: 1.1rem;
   color: #333;
   margin-bottom: 1.5rem;
+  padding: 100px;
 }
 
 .btn-home {
@@ -300,7 +302,7 @@ input [type=checkbox]:ckecked + label:before {
   text-decoration: none;   /* removes underline */
   background: #ff6600;     /* orange button */
   color: #fff;             /* white text */
-  padding: 0.7rem 1.4rem;
+  padding:100px;
   border-radius: 5px;
   transition: background 0.3s;
   font-weight: bold; 
