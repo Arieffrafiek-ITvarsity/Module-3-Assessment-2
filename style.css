@@ -178,48 +178,48 @@ body {
   display: inline-block;
 }
 
-.item-details-ingredients {
+.item-details-extras {
   background: rgba(255,255,255,.12);
   padding: 1.5rem;
   border-radius: 5px;
   margin: 0 10px 1rem 10px;
 }
 
-.item-details-ingredients h2 {
+.item-details-extras h2 {
   font-size: 18px;
   margin-bottom: 1rem;
   color: #000;
 }
 
-.item-details-ingredients label {
+.item-details-extras label {
   font-size: 15px;
   color: #000000;
   margin-left: 10px;
   cursor: pointer;
 }
 
-.item-details-ingredients input[type="checkbox"] {
+.item-details-extras input[type="checkbox"] {
   accent-color: #fc0808; /* modern browsers: orange highlight */
   transform: scale(1.2);
   cursor: pointer;
   border: 2px solid #000000;
 }
 
-.item-details-steps {
+.item-details-text {
   background: rgba(255,255,255,.12);
   padding: 1.5rem;
   border-radius: 5px;
   margin: 0 10px 1rem 10px;
 }
 
-.item-details-steps label {
+.item-details-text label {
   font-weight: bold;
   display: block;
   margin-bottom: 0.5rem;
   color: #000000;
 }
 
-.item-details-steps textarea {
+.item-details-text textarea {
   width: 96%;
   min-height: 80px;
   padding: 0.8rem;
@@ -229,7 +229,7 @@ body {
   resize: vertical;
 }
 
-.item-details-steps button {
+.item-details-text button {
   margin-top: 1rem;
   background: #ff6600;
   color: #fff;
@@ -241,7 +241,7 @@ body {
   transition: background 0.25s;
 }
 
-.item-details-steps button:hover {
+.item-details-text button:hover {
   background: #e65c00;
 }
 
