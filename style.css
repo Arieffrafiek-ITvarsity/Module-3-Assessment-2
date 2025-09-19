@@ -202,7 +202,7 @@ input [type=checkbox] + label:before {
   
   content: "\f0c8";
   letter-spacing: 10px;
-  font-size: 20px;
+  font-size: 15px;
 }
 input [type=checkbox]:ckecked + label:before {
   content: "\f14a";
