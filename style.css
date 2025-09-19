@@ -145,11 +145,10 @@ body {
   
 /*============= RECIPE DETAILS ===============*/
 .item-details img{
-   width: 100%;
+   width: 99%;
    position: center;
    border: 2px solid #000000;
-   margin-left: 10px;
-   margin-right:10px;
+   margin:10px;
   border-radius: 5px;
   display: block;
 }
@@ -196,6 +195,7 @@ body {
 
 input [type=checkbox] {
   display: none; 
+  font-size: 15px;
 }
 
 input [type=checkbox] + label:before {
@@ -204,7 +204,7 @@ input [type=checkbox] + label:before {
   
   content: "\f0c8";
   letter-spacing: 10px;
-  font-size: 15px;
+  
 }
 input [type=checkbox]:ckecked + label:before {
   content: "\f14a";
