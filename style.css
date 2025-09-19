@@ -134,7 +134,7 @@ body {
 /*============= item PAGE ===============*/
 
 #item{
-  padding-top: 60px;
+  padding-top: 50px;
 }
 
 .body-meals {
@@ -147,9 +147,9 @@ body {
 .item-details img{
    width: 100%;
    position: center;
-  border: 2px solid #000000;
-   margin: 10px
-  
+   border: 2px solid #000000;
+   margin-left: 10px;
+   margin-right:10px;
   border-radius: 5px;
   display: block;
 }
