@@ -265,26 +265,33 @@ input [type=checkbox]:ckecked + label:before {
 }
 
 /*============= thankX ===============*/
+body.body-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #ffecd2, #fcb69f); /* soft gradient */
+  margin: 0;
+}
+
 .thank-you {
-  background: #fff;
-  border: 1px solid #000;
-  border-radius: 8px;
-  padding: 2rem 3rem;
   text-align: center;
+  background: rgba(255, 255, 255, 0.5); /* transparent white block */
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 2rem 3rem;
   max-width: 450px;
-  margin: 5% auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .thank-you h1 {
   font-size: 1.8rem;
-  color: #333;
+  color: #222;
   margin-bottom: 1rem;
 }
 
 .thank-you p {
   font-size: 1.1rem;
-  color: #555;
+  color: #333;
   margin-bottom: 1.5rem;
 }
 
@@ -304,8 +311,7 @@ input [type=checkbox]:ckecked + label:before {
 
 .site-footer {
   text-align: center;
-  margin-top: 2rem;
   padding: 1rem;
   font-size: 0.9rem;
-  color: #555;
+  color: #444;
 }
