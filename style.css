@@ -260,7 +260,8 @@ body {
   text-align: center;
 }
 
-  
+ .hero { width: 1040;border-radius: .75rem; overflow: hidden; border: 1px solid #eee; }
+.hero img { width: 100%; display: block; } 
 /*============= CUSTOM CHECKBOX ===============*/
 
 input [type=checkbox] {
