@@ -144,12 +144,12 @@ body {
   background-size: cover;
   
 /*============= RECIPE DETAILS ===============*/
-.item-details img{
+.item-details img {
    border: 2px solid #000000;
    margin: 0 10px 1rem 10px;
-  border-radius: 5px;
-  width: auto;
-  position: center;
+   border-radius: 5px;
+   width: 90%;
+   text-align: center;
 }
   
 .item-details h1{
@@ -260,8 +260,7 @@ body {
   text-align: center;
 }
 
- .hero { width: 1040;border-radius: .75rem; overflow: hidden; border: 1px solid #eee; }
-.hero img { width: 100%; display: block; } 
+  
 /*============= CUSTOM CHECKBOX ===============*/
 
 input [type=checkbox] {
